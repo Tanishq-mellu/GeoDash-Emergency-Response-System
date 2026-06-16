@@ -122,6 +122,15 @@ Core contributions include:
 Frontend implementation was developed collaboratively
 with project team members.
 
+## Citation
+
+If you use GeoDash in academic work, please cite:
+
+Meshram, T.
+GeoDash v1: Emergency Response & Decision Support System.
+2026.
+GitHub Repository.
+
 ## License
 
 Apache License 2.0
