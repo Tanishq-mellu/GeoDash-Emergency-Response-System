@@ -131,6 +131,16 @@ GeoDash v1: Emergency Response & Decision Support System.
 2026.
 GitHub Repository.
 
+## GeoDash v2 (Planned)
+
+Future research-focused version:
+
+- AI-driven accident prediction
+- Dynamic traffic forecasting
+- Reinforcement-learning route optimization
+- Real-time emergency resource allocation
+- Explainable risk assessment
+
 ## License
 
 Apache License 2.0
