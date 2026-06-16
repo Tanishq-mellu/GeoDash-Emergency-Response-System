@@ -79,8 +79,7 @@ GeoDash v2 will introduce AI-powered emergency resource allocation, predictive a
 
 ### Project Creator & Lead Backend Developer
 
-Tanishq Meshram - Project Creator & Lead Backend Developer,
-Prateek Saini - Lead Frontend Developer
+Tanishq Meshram - Project Creator & Lead Backend Developer
 
 Responsibilities:
 
