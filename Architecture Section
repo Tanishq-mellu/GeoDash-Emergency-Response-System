@@ -1,0 +1,17 @@
+## System Architecture
+
+Frontend
+↓
+Flask API Layer
+↓
+Routing Engine (NetworkX + OSMnx)
+↓
+Risk Analysis Engine
+↓
+Hospital Selection Engine
+↓
+Ambulance Dispatch Engine
+↓
+Weather Risk Engine
+↓
+Accident Dataset Analytics
