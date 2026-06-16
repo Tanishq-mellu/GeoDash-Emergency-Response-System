@@ -80,7 +80,7 @@ GeoDash v2 will introduce AI-powered emergency resource allocation, predictive a
 ### Project Creator & Lead Backend Developer
 
 Tanishq Meshram - Project Creator & Lead Backend Developer
-Prateek Saini - Frontend Developer
+Prateek Saini - Lead Frontend Developer
 
 Responsibilities:
 
@@ -95,7 +95,7 @@ Responsibilities:
 
 ### Frontend Development Team
 
-TEAM MEMBER NAMES
+Prateek Saini - Lead Frontend Developer
 
 Responsibilities:
 
@@ -103,6 +103,24 @@ Responsibilities:
 * Dashboard Development
 * Frontend Integration
 * User Experience
+
+## Project Ownership
+
+GeoDash v1 was conceptualized, architected, and developed by
+Tanishq Meshram.
+
+Core contributions include:
+
+- Backend architecture
+- Geospatial routing engine
+- Safety scoring system
+- Hospital recommendation engine
+- Ambulance dispatch engine
+- Risk analytics APIs
+- Database integration
+
+Frontend implementation was developed collaboratively
+with project team members.
 
 ## License
 
